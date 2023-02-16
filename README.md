@@ -6,7 +6,7 @@ A plug-in that can call native APP to open files with string result in flutter, 
 To use this plugin, add open_file_safe_plus as a dependency in your pubspec.yaml file.
 ```yaml
 dependencies:
-  open_file_safe: ^lastVersion
+  open_file_safe_plus: ^lastVersion
 ```
 
 ## Example
