@@ -1,5 +1,5 @@
 # open_file_plus
-A plug-in that can call native APP to open files with string result in flutter, support iOS(DocumentInteraction) / android(intent) / PC(ffi) / web(dart:html)
+A plug-in that can call native APP to open files with string result in flutter, support iOS(DocumentInteraction) / android(intent) / PC(ffi) / web(dart:html) (successor of open_file)
 
 ## Usage
 
