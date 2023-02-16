@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/services.dart';
-import 'package:open_file_plus/src/common/open_result.dart';
+import 'package:open_file_safe_plus/src/common/open_result.dart';
 import 'macos.dart' as mac;
 import 'windows.dart' as windows;
 import 'linux.dart' as linux;

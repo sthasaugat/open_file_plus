@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:open_file_plus/src/common/open_result.dart';
+import 'package:open_file_safe_plus/src/common/open_result.dart';
 
 import 'web.dart' as web;
 

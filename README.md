@@ -1,9 +1,9 @@
-# open_file_plus
+# open_file_safe_plus
 A plug-in that can call native APP to open files with string result in flutter, support iOS(DocumentInteraction) / android(intent) / PC(ffi) / web(dart:html) (successor of open_file)
 
 ## Usage
 
-To use this plugin, add open_file_plus as a dependency in your pubspec.yaml file.
+To use this plugin, add open_file_safe_plus as a dependency in your pubspec.yaml file.
 ```yaml
 dependencies:
   open_file_safe: ^lastVersion
@@ -11,7 +11,7 @@ dependencies:
 
 ## Example
 ```dart
-import 'package:open_file_plus/open_file_plus.dart';
+import 'package:open_file_safe_plus/open_file_safe_plus.dart';
 
 OpenFile.open("/sdcard/example.txt");
 ```
