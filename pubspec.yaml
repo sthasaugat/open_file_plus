@@ -1,7 +1,7 @@
-name: open_file
+name: open_file_plus
 description: A plug-in that can call native APP to open files with string result in flutter, support iOS(UTI) / android(intent) / PC(ffi) / web(dart:html)
-version: 3.2.2
-homepage: https://github.com/crazecoder/open_file
+version: 0.0.1
+homepage: https://github.com/mdshadatrahman/open_file_plus
 
 dependencies:
   flutter:
