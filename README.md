@@ -13,7 +13,7 @@ dependencies:
 ```dart
 import 'package:open_file_safe_plus/open_file_safe_plus.dart';
 
-OpenFile.open("/sdcard/example.txt");
+OpenFileSafePlus.open("/sdcard/example.txt");
 ```
 
 ## Support

@@ -1,3 +1,8 @@
+## 0.0.4
+* Update sdk version
+* Update: README.md
+* Fix: No podspec found for open_file_safe_plus
+
 ## 0.0.3
 * Fix: No podspec found for open_file_safe_plus
 ## 0.0.2
