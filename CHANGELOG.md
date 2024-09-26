@@ -1,3 +1,6 @@
+## 0.0.5
+* Fixed namespace issue on android 34
+
 ## 0.0.4
 * Update sdk version
 * Update: README.md
